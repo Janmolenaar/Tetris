@@ -3,7 +3,7 @@
     <link href="tetris.css" rel="stylesheet" />
 </head>
 <body>
-    <h1>PHPetris</h1>
+    <h1>PHPtetris</h1>
     <?php
     require 'Board.class.php';
 
